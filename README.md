@@ -1,5 +1,4 @@
 # pmcSAT
-======
 
 Parallel SAT Solver, awarded with a bronze medal in the 2013 and 2014 [SAT Competitions](http://www.satcompetition.org/) and published on the [FLAIRS-26 Conference](http://www.flairs.com/).
 
@@ -11,13 +10,13 @@ Parallel SAT Solver, awarded with a bronze medal in the 2013 and 2014 [SAT Compe
 
 ## Usage
 
-For compiling:
+Compiling:
 
 ```
 ./build.sh 
 ```
 
-For running:
+Running:
 ```
 ./binary/pmcsat_static INPUT_FILE.cnf
 ```
