@@ -16,7 +16,7 @@ Compiling:
 ./build.sh 
 ```
 
-Running:
+Running (some input file examples are in the input_files folder):
 ```
 ./binary/pmcsat_static INPUT_FILE.cnf
 ```
